@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorAccent">#E65100</color>
+    <color name="amber">#FFB300</color>
+    <color name="white">#FFFFFF</color>
+    <color name="photo_tint">#CC101010</color>
+    <color name="divider">#CCCCCC</color>
+    <color name="description">#878787</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="red">#E53935</color>
+    <color name="light_red">#FF5252</color>
+    <color name="blue">#0099cc</color>
+    <color name="light_blue">#33b5e5</color>
+</resources>

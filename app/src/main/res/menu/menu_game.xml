@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/grid_view"
+          android:title="@string/gridview"
+          android:icon="@drawable/ic_gridview"
+          app:showAsAction="ifRoom"/>
+    <item android:id="@+id/list_view"
+          android:title="@string/listview"
+          android:visible="false"
+          android:icon="@drawable/ic_listview"
+          app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/pause"
+          android:icon="@drawable/restaurant_menu"
+          android:title="@string/pause"
+          app:showAsAction="always"/>
+
+</menu>

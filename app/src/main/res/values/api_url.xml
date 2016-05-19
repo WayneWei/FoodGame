@@ -1,0 +1,5 @@
+<resources>
+    <string name="api_register">http://140.116.245.148/WebCourse/students/f74014025/FoodGame/register.php</string>
+    <string name="api_get_food">http://140.116.245.148/WebCourse/students/f74014025/FoodGame/getFood.php</string>
+
+</resources>
